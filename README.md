@@ -1,4 +1,4 @@
-# Advanced React Folder Structure
+# Advanced React Dashboard
 
 ## Available Scripts
 
