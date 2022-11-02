@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <h1>React Dashboard</h1>
+      <h1>Advanced React Folder Structure</h1>
     </>
   );
 };
